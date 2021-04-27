@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.flink:flink-shaded-hadoop-3-uber:3.1.1.7.2.1.0-327-9.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../cache/maven/repository/org/apache/flink/flink-shaded-hadoop-3-uber/3.1.1.7.2.1.0-327-9.0/flink-shaded-hadoop-3-uber-3.1.1.7.2.1.0-327-9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../cache/maven/repository/org/apache/flink/flink-shaded-hadoop-3-uber/3.1.1.7.2.1.0-327-9.0/flink-shaded-hadoop-3-uber-3.1.1.7.2.1.0-327-9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../cache/maven/repository/org/apache/flink/flink-shaded-hadoop-3-uber/3.1.1.7.2.1.0-327-9.0/flink-shaded-hadoop-3-uber-3.1.1.7.2.1.0-327-9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

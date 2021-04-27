@@ -1,0 +1,18 @@
+server:
+  port: 12120
+
+spring:
+  kafka:
+    bootstrap-servers: http://hadoophost:9092
+    producer:
+      retries: 0
+      acks: 1
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+    consumer:
+      group-id: stayalert-api
+      enable-auto-commit: true
+      auto-offset-reset: latest
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+

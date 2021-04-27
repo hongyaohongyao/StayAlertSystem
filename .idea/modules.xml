@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StayAlertAPI/StayAlertAPI.iml" filepath="$PROJECT_DIR$/StayAlertAPI/StayAlertAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StayAlertFlink/StayAlertFlink.iml" filepath="$PROJECT_DIR$/StayAlertFlink/StayAlertFlink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stayalertweb/StayAlertWeb.iml" filepath="$PROJECT_DIR$/stayalertweb/StayAlertWeb.iml" />
+    </modules>
+  </component>
+</project>
